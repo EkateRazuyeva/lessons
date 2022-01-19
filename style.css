@@ -1,0 +1,29 @@
+.text {
+    color: red;
+    font-size: 75px;
+    margin: 100px;
+}
+
+.button {
+    color: purple;
+    font-size: 100px;
+    margin: 100px;
+}
+
+.text-another {
+    color: blue;
+    font-size: 50px;
+}
+
+.margin-class {
+    margin: 20px;
+}
+
+.margin-top-class {
+    margin-top: 50px;
+}
+
+.padding-class {
+    padding: 50px;
+    border: solid 1px;
+}
