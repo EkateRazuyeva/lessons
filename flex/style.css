@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    border: solid 2px orangered;
+    box-sizing: border-box;
+    height: 600px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    width: 300px;
+    height: 300px;
+     border: solid 2px rgb(121, 219, 219);
+}
+
+.caption {
+   border: solid 2px rgb(167, 105, 224);
+   height: 200px;
+   flex-grow: 1;
+    
+}
+
+.links {
+    width: 500px;
+    height: 300px;
+   border: solid 2px rgb(228, 118, 173);
+    
+}
+
