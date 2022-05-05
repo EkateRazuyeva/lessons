@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  flex-direction: column-reverse;
+  border: solid 2px orangered;
+  box-sizing: border-box;
+  width: 600px;
+  height: 100vh;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.logo {
+  width: 300px;
+  height: 300px;
+  border: solid 2px rgb(121, 219, 219);
+}
+
+.caption {
+  border: solid 2px rgb(167, 105, 224);
+  height: 100px;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.links {
+  width: 500px;
+  height: 300px;
+  border: solid 2px rgb(228, 118, 173);
+}
